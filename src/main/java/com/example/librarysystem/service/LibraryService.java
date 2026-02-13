@@ -1,4 +1,4 @@
-package service;
+package com.example.librarysystem.service;
 
 import com.example.librarysystem.model.Book;
 import com.example.librarysystem.repository.BookRepository;
